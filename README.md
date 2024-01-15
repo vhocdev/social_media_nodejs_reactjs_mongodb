@@ -16,9 +16,9 @@ React version: v18.2.0
 ```
 $ docker compose up -d
 ```
-Depois que as aplicações inciarem abra `http://localhost:3000` no seu navegador para acessar o frontend.
+After the server start go to `http://localhost:3000` in your browser to access the frontend.
 
-# Parar e remover os Containers
+# Stop and remove containers
 ```
 $ docker compose down
 Stopping server   ... done
